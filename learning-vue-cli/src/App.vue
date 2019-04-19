@@ -11,6 +11,9 @@
       <li class="menuItem">
         <router-link to="/mycolors" class="menuLink">My Colors</router-link>
       </li>
+      <li class="pure-menu-item">
+        <a class="pure-menu-link" href="https://github.com/nttgrt/cp5/tree/master/learning-vue-cli">github link</a>
+      </li>
     </ul>
   </div>
   <div class="content">
